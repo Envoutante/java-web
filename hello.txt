@@ -1,2 +1,6 @@
 i am ive
+<<<<<<<
 anyujin xi
+=======
+jangwonyoung xi
+>>>>>>>
